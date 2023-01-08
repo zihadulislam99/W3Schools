@@ -1,4 +1,4 @@
-# W3Schools Offline ⚡️  Update v2022.12.22
+# W3Schools Offline ⚡️  Update v08.Jan.2023
 
 W3schools tutorials are available at any time within your local computer.
 
